@@ -39,11 +39,12 @@ Think of it like predicting the weather — we use past weather patterns to pred
 ---
 
 ### 📂 Files Created:
+### 📂 Files Created:
 
 | File Name                  | Description                                  |
-|---------------------------|----------------------------------------------|
-| `sales_forecast.png`      | 📊 Shows the sales predictions               |
-| `sales_forecast_results.csv` | 📄 Contains all the forecasted numbers     |
-| `confusion_matrix.png`    | 📘 Shows how accurate our predictions are    |
-
----
+|----------------------------|----------------------------------------------|
+| `sales_forecast.png`        | 📊 Shows the sales predictions               |
+| `forecast_components.png`   | 🔍 Displays seasonal trends and patterns     |
+| `confusion_matrix.png`      | 📘 Shows how accurate our predictions are    |
+| `moving_averages.png`       | 📈 Visualizes sales trends using moving averages |
+| `sales_forecast_results.csv`| 📄 Contains all the forecasted numbers       |
